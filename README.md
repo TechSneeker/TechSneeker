@@ -16,12 +16,12 @@
 
 ## My Skills
 
-###Backend
+#Backend
 <div style="display: inline_block">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/java-original.svg'>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/spring-original.svg'>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/postgresql-original.svg'>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/gitlab-original.svg'>
+  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/java-original.svg">
+  <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/spring-original.svg">
+  <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/postgresql-original.svg">
+  <img align="center" alt="gitlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/gitlab-original.svg">
 <div/>
 
 <br/>  
