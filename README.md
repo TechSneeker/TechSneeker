@@ -15,7 +15,7 @@
 <br/>  
 
 ## My Skills
-<table style="border:0;"><tr><td valign="top" width="33%">
+<table style="border:0"><tr><td valign="top" width="33%">
 
 
 
