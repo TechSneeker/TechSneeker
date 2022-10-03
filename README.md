@@ -1,4 +1,6 @@
 ### <div align="center">I'm Fellipe, a simple full-stack developer 💻 looking to evolve ✍️</div>  
+
+<br/>
   
 
 - 🔭 I’m currently working on private projects  
@@ -59,12 +61,12 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TechSneeker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TechSneeker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSneeker&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-  
 <br/>  
 
 <div align="center">
