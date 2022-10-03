@@ -16,14 +16,12 @@
 
 ## My Skills
 
-<div style="display: inline_block">
 ###Backend
-<div>
-<div/>
-###Frontend
-<div>
-
-<div/>
+<div style="display: inline_block">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/java-original.svg'>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/spring-original.svg'>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/postgresql-original.svg'>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/gitlab-original.svg'>
 <div/>
 
 <br/>  
