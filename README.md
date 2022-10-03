@@ -1,4 +1,4 @@
-### <div align="center">I'm Fellipe, a simple full-stack developer 💻 looking to evolve ✍️</div>  
+### <div align="center">I'm Fellipe, a simple full-stack developer 💻 looking to improve ✍️</div>  
 
 <br/>
   
