@@ -17,11 +17,12 @@
 ## My Skills
 
 <div style="display: inline_block">
-<div>
 ###Backend
-<div/>
 <div>
+<div/>
 ###Frontend
+<div>
+
 <div/>
 <div/>
 
