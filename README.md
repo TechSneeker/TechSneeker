@@ -3,10 +3,10 @@
 <br/>
   
 
-- 🔭 I’m currently working on private projects  
+- 🔭 I’m currently working on private projects
   
 
-- 🌱 I’m currently learning Vue.js  
+- 🌱 I’m currently learning Java 
   
 
 - ⚡ Fun fact: If you drop a database, you will be promoted to customer 🤫  
