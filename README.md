@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on private projects
   
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, lua, C# and C++
   
 
 - ⚡ Fun fact: If you drop a database, you will be promoted to customer 🤫  
