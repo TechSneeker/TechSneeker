@@ -28,7 +28,4 @@
 </div> 
 
 <br/>  
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fellipe_carreiro) [![](https://visitcount.itsvg.in/api?id=TechSneeker&icon=0&color=12)](https://visitcount.itsvg.in)
   
