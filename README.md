@@ -4,12 +4,6 @@
   
 - 🔭 I’m currently working on private projects
   
-
-- 🌱 I’m currently learning Java, Lua, C# and C++
-  
-
-- ⚡ Fun fact: If you drop a database, you will be promoted to customer 🤫  
-  
 <br/>  
 
 ## My Skills
